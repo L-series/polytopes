@@ -1,0 +1,4 @@
+Possible improvements to FF:
+
+When the point count is small use this algorithm and include the points into the FF
+https://www.csun.edu/~ctoth/Handbook/chap15.pdf
